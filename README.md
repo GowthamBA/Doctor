@@ -2,7 +2,7 @@
 
 Instant chat with Doctor
 
-Currently it is in development and it's deployed in heroku [DigiCertificate](https://digicertificate.herokuapp.com/) link
+Currently it is in development and it's deployed in heroku [DoctorX](https://doctorx-chat.herokuapp.com/) link
 
 ## Installation.
 
